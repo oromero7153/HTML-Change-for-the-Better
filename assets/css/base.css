@@ -24,7 +24,7 @@ nav li,
 
 nav a,
 .nav a {
-    color: white;
+    color: black;
     text-decoration: underline;
     margin-right: 20px;
 }
