@@ -15,12 +15,12 @@ main,
 }
 
 .btn1 {
-    color: green;
+    color: white;
     background-color: red;
 }
 
 .btn2 {
-    color: crimson;
+    color: white;
     background-color: green;
 }
 
@@ -31,9 +31,9 @@ footer,
 }
 
 .flashy-text {
-    color: aqua;
-    animation: blink-animation 0.2s steps(5, start) infinite;
-    -webkit-animation: blink-animation 0.2s steps(5, start) infinite;
+    color: #black;
+    animation: blink-animation 1s steps(5, start) infinite;
+    -webkit-animation: blink-animation 1s steps(5, start) infinite;
 }
 
 @keyframes blink-animation {
